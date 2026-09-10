@@ -1,0 +1,344 @@
+[
+  {
+    "id": "excel_tech_00",
+    "company": "Tech Mahindra",
+    "title": "Android Developer",
+    "location": "Remote / Remote",
+    "experience_level": "Senior (6-10 yrs)",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "REST APIs"
+    ],
+    "description": "Exciting opportunity for a Android Developer at Tech Mahindra. You will be working in the Information Technology sector. We are looking for candidates with expertise in Kotlin, Java, REST APIs to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Kotlin, Java, REST APIs",
+    "url": "https://careers.techmahindra.com/jobs"
+  },
+  {
+    "id": "excel_drea_01",
+    "company": "Dream11",
+    "title": "QA Engineer",
+    "location": "Lucknow / Hybrid",
+    "experience_level": "Senior (6-10 yrs)",
+    "skills": [
+      "Selenium",
+      "Manual Testing",
+      "Postman",
+      "API Testing",
+      "Python"
+    ],
+    "description": "Exciting opportunity for a QA Engineer at Dream11. You will be working in the Information Technology sector. We are looking for candidates with expertise in Selenium, Manual Testing, Postman, API Testing, Python to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Selenium, Manual Testing, Postman, API Testing, Python",
+    "url": "https://careers.dream11.com/jobs"
+  },
+  {
+    "id": "excel_hal_02",
+    "company": "HAL",
+    "title": "Business Analyst",
+    "location": "Remote / Remote",
+    "experience_level": "Senior (6-10 yrs)",
+    "skills": [
+      "JIRA",
+      "Excel",
+      "Power BI"
+    ],
+    "description": "Exciting opportunity for a Business Analyst at HAL. You will be working in the EdTech sector. We are looking for candidates with expertise in JIRA, Excel, Power BI to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "JIRA, Excel, Power BI",
+    "url": "https://careers.hal.com/jobs"
+  },
+  {
+    "id": "excel_grow_03",
+    "company": "Groww",
+    "title": "Cybersecurity Analyst",
+    "location": "Mumbai / Hybrid",
+    "experience_level": "Mid (3-6 yrs)",
+    "skills": [
+      "Penetration Testing",
+      "Python",
+      "Ethical Hacking",
+      "SIEM",
+      "Network Security"
+    ],
+    "description": "Exciting opportunity for a Cybersecurity Analyst at Groww. You will be working in the Information Technology sector. We are looking for candidates with expertise in Penetration Testing, Python, Ethical Hacking, SIEM, Network Security to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Penetration Testing, Python, Ethical Hacking, SIEM, Network Security",
+    "url": "https://careers.groww.com/jobs"
+  },
+  {
+    "id": "excel_orac_04",
+    "company": "Oracle",
+    "title": "Python Developer",
+    "location": "Remote / Remote",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Docker",
+      "REST APIs",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "description": "Exciting opportunity for a Python Developer at Oracle. You will be working in the EdTech sector. We are looking for candidates with expertise in Docker, REST APIs, AWS, PostgreSQL to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Docker, REST APIs, AWS, PostgreSQL",
+    "url": "https://careers.oracle.com/jobs"
+  },
+  {
+    "id": "excel_nyka_05",
+    "company": "Nykaa",
+    "title": "Backend Developer",
+    "location": "Indore / Hybrid",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Java",
+      "Docker",
+      "MongoDB"
+    ],
+    "description": "Exciting opportunity for a Backend Developer at Nykaa. You will be working in the Information Technology sector. We are looking for candidates with expertise in Java, Docker, MongoDB to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Java, Docker, MongoDB",
+    "url": "https://careers.nykaa.com/jobs"
+  },
+  {
+    "id": "excel_phon_06",
+    "company": "PhonePe",
+    "title": "Power BI Developer",
+    "location": "Remote / Remote",
+    "experience_level": "Mid (3-6 yrs)",
+    "skills": [
+      "Power BI",
+      "SQL",
+      "Excel",
+      "DAX",
+      "Data Modeling"
+    ],
+    "description": "Exciting opportunity for a Power BI Developer at PhonePe. You will be working in the Banking & Finance sector. We are looking for candidates with expertise in Power BI, SQL, Excel, DAX, Data Modeling to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Power BI, SQL, Excel, DAX, Data Modeling",
+    "url": "https://careers.phonepe.com/jobs"
+  },
+  {
+    "id": "excel_cisc_07",
+    "company": "Cisco",
+    "title": "Business Analyst",
+    "location": "Pune / Hybrid",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Agile",
+      "Power BI",
+      "Requirements Gathering"
+    ],
+    "description": "Exciting opportunity for a Business Analyst at Cisco. You will be working in the Information Technology sector. We are looking for candidates with expertise in Agile, Power BI, Requirements Gathering to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Agile, Power BI, Requirements Gathering",
+    "url": "https://careers.cisco.com/jobs"
+  },
+  {
+    "id": "excel_hcl_08",
+    "company": "HCL Technologies",
+    "title": "Java Developer",
+    "location": "Remote / On-Site",
+    "experience_level": "Fresher (0-1 yr)",
+    "skills": [
+      "REST APIs",
+      "Hibernate",
+      "Maven",
+      "Spring Boot"
+    ],
+    "description": "Exciting opportunity for a Java Developer at HCL Technologies. You will be working in the Banking & Finance sector. We are looking for candidates with expertise in REST APIs, Hibernate, Maven, Spring Boot to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "REST APIs, Hibernate, Maven, Spring Boot",
+    "url": "https://careers.hcltechnologies.com/jobs"
+  },
+  {
+    "id": "excel_char_09",
+    "company": "Chargebee",
+    "title": "Technical Lead",
+    "location": "Delhi / On-Site",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Microservices",
+      "System Design",
+      "Team Leadership",
+      "Code Review"
+    ],
+    "description": "Exciting opportunity for a Technical Lead at Chargebee. You will be working in the Media & Entertainment sector. We are looking for candidates with expertise in Microservices, System Design, Team Leadership, Code Review to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Microservices, System Design, Team Leadership, Code Review",
+    "url": "https://careers.chargebee.com/jobs"
+  },
+  {
+    "id": "excel_info_10",
+    "company": "Infosys",
+    "title": "QA Engineer",
+    "location": "Remote / Hybrid",
+    "experience_level": "Fresher (0-1 yr)",
+    "skills": [
+      "Python",
+      "Postman",
+      "API Testing",
+      "Selenium",
+      "JIRA",
+      "Manual Testing"
+    ],
+    "description": "Exciting opportunity for a QA Engineer at Infosys. You will be working in the Information Technology sector. We are looking for candidates with expertise in Python, Postman, API Testing, Selenium, JIRA, Manual Testing to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Python, Postman, API Testing, Selenium, JIRA, Manual Testing",
+    "url": "https://careers.infosys.com/jobs"
+  },
+  {
+    "id": "excel_hasu_11",
+    "company": "Hasura",
+    "title": "UI/UX Designer",
+    "location": "Hyderabad / On-Site",
+    "experience_level": "Mid (3-6 yrs)",
+    "skills": [
+      "Wireframing",
+      "Adobe XD",
+      "User Research",
+      "Prototyping"
+    ],
+    "description": "Exciting opportunity for a UI/UX Designer at Hasura. You will be working in the Information Technology sector. We are looking for candidates with expertise in Wireframing, Adobe XD, User Research, Prototyping to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Wireframing, Adobe XD, User Research, Prototyping",
+    "url": "https://careers.hasura.com/jobs"
+  },
+  {
+    "id": "excel_isro_12",
+    "company": "ISRO",
+    "title": "Data Analyst",
+    "location": "Remote / On-Site",
+    "experience_level": "Fresher (0-1 yr)",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "Statistics",
+      "Excel",
+      "Python"
+    ],
+    "description": "Exciting opportunity for a Data Analyst at ISRO. You will be working in the FinTech sector. We are looking for candidates with expertise in SQL, Tableau, Power BI, Statistics, Excel, Python to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "SQL, Tableau, Power BI, Statistics, Excel, Python",
+    "url": "https://careers.isro.com/jobs"
+  },
+  {
+    "id": "excel_goog_13",
+    "company": "Google",
+    "title": "Software Engineer",
+    "location": "Pune / Hybrid",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Python",
+      "Git",
+      "REST APIs"
+    ],
+    "description": "Exciting opportunity for a Software Engineer at Google. You will be working in the Government/PSU sector. We are looking for candidates with expertise in Python, Git, REST APIs to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Python, Git, REST APIs",
+    "url": "https://careers.google.com/jobs"
+  },
+  {
+    "id": "excel_bhel_14",
+    "company": "BHEL",
+    "title": "Machine Learning Engineer",
+    "location": "Lucknow / Hybrid",
+    "experience_level": "Mid (3-6 yrs)",
+    "skills": [
+      "Docker",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ],
+    "description": "Exciting opportunity for a Machine Learning Engineer at BHEL. You will be working in the EdTech sector. We are looking for candidates with expertise in Docker, TensorFlow, PyTorch, Scikit-learn to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Docker, TensorFlow, PyTorch, Scikit-learn",
+    "url": "https://careers.bhel.com/jobs"
+  },
+  {
+    "id": "excel_cogn_15",
+    "company": "Cognizant",
+    "title": "Python Developer",
+    "location": "Bhubaneswar / On-Site",
+    "experience_level": "Lead (10+ yrs)",
+    "skills": [
+      "Django",
+      "FastAPI",
+      "Docker"
+    ],
+    "description": "Exciting opportunity for a Python Developer at Cognizant. You will be working in the Information Technology sector. We are looking for candidates with expertise in Django, FastAPI, Docker to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Django, FastAPI, Docker",
+    "url": "https://careers.cognizant.com/jobs"
+  },
+  {
+    "id": "excel_brow_16",
+    "company": "BrowserStack",
+    "title": "Power BI Developer",
+    "location": "Remote / Remote",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "ETL",
+      "Data Modeling",
+      "DAX"
+    ],
+    "description": "Exciting opportunity for a Power BI Developer at BrowserStack. You will be working in the Information Technology sector. We are looking for candidates with expertise in ETL, Data Modeling, DAX to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "ETL, Data Modeling, DAX",
+    "url": "https://careers.browserstack.com/jobs"
+  },
+  {
+    "id": "excel_setu_18",
+    "company": "Setu",
+    "title": "Data Engineer",
+    "location": "Remote / Remote",
+    "experience_level": "Fresher (0-1 yr)",
+    "skills": [
+      "Airflow",
+      "AWS",
+      "Spark",
+      "Python",
+      "Kafka"
+    ],
+    "description": "Exciting opportunity for a Data Engineer at Setu. You will be working in the Banking & Finance sector. We are looking for candidates with expertise in Airflow, AWS, Spark, Python, Kafka to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Airflow, AWS, Spark, Python, Kafka",
+    "url": "https://careers.setu.com/jobs"
+  },
+  {
+    "id": "excel_bsnl_19",
+    "company": "BSNL",
+    "title": "Software Engineer",
+    "location": "Remote / Hybrid",
+    "experience_level": "Senior (6-10 yrs)",
+    "skills": [
+      "Algorithms",
+      "Python",
+      "System Design",
+      "Java"
+    ],
+    "description": "Exciting opportunity for a Software Engineer at BSNL. You will be working in the FinTech sector. We are looking for candidates with expertise in Algorithms, Python, System Design, Java to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Algorithms, Python, System Design, Java",
+    "url": "https://careers.bsnl.com/jobs"
+  },
+  {
+    "id": "excel_cred_20",
+    "company": "CRED",
+    "title": "Java Developer",
+    "location": "Remote / On-Site",
+    "experience_level": "Junior (1-3 yrs)",
+    "skills": [
+      "Microservices",
+      "REST APIs",
+      "Maven",
+      "Hibernate",
+      "SQL"
+    ],
+    "description": "Exciting opportunity for a Java Developer at CRED. You will be working in the Information Technology sector. We are looking for candidates with expertise in Microservices, REST APIs, Maven, Hibernate, SQL to drive impactful projects.",
+    "source": "excel",
+    "tech_stack": "Microservices, REST APIs, Maven, Hibernate, SQL",
+    "url": "https://careers.cred.com/jobs"
+  }
+]

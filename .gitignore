@@ -1,0 +1,47 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python & Virtual Environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ChromaDB & Vector Store Data
+/data/
+**/data/chroma/
+*.sqlite3
+*.bin
+
+# Uploads & Temporary Files
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/
+tmp/
+temp/
+
+# IDE & OS Files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
